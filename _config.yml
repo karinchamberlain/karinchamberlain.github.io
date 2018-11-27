@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://karinchamberlain.github.io
+# url: https://karinchamberlain.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -59,13 +59,13 @@ authors:
         bio: Genealogist
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: Karinchamberlain
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+#        twitter: Karinchamberlain
+#    jamesfoster:
+#        name: James Foster
+#        bio: A Man who develops software with coffee
+#        external-image: false
+#        picture: assets/images/james.jpg
+#        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
