@@ -17,5 +17,5 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://www.garrett.edu/sites/default/files/aware_pdfs/Aware%20-%20April%202018%20%28FW%29.pdf">Mary Phillips, Class of 1879: The First Woman to Graduate</a></li>
+	<li><a href="https://www.garrett.edu/sites/default/files/aware_pdfs/Aware%20-%20April%202018%20%28FW%29.pdf" target="_blank">Mary Phillips, Class of 1879: The First Woman to Graduate</a></li>
 </ul>
