@@ -1,6 +1,6 @@
 # main text of home
 name: Karin Chamberlain
-bio: Genealogist
+bio: Professional Genealogist
 
 # twitter summary info
 description: A web page for Genealogy
@@ -14,7 +14,7 @@ picture: assets/images/famprofile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf #https://google.com/?q=my+resume
+resume-url: https://1drv.ms/w/s!AvXDPUa2H_-OidldIMymAQGlsM4u3w?e=bpWhEL #https://google.com/?q=my+resume
 
 url: https://karinchamberlain.github.io
 # your url: http://USERNAME.github.io
@@ -56,7 +56,7 @@ email: chamberlainkarin@gmail.com
 authors:
     johndoe:
         name: Karin Chamberlain
-        bio: Genealogist
+        bio: Professional Genealogist
         external-image: false
         picture: assets/images/profile.jpg
 #        twitter: Karinchamberlain
