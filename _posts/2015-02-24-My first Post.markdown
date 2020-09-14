@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "The Beginning"
 layout: post
 date: 2018-11-24 22:48
 image: /assets/images/markdown.jpg
