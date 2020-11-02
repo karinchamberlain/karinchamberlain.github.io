@@ -11,7 +11,6 @@ layout: page
 <ul class="skill-list">
 	<li>FamilySearch.org</li>
 	<li>Chasing kids around the house</li>
-	<li>Bow Staff and Num Chuck</li>
 </ul>
 
 <h2>Projects</h2>
