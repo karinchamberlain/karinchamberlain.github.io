@@ -8,7 +8,7 @@ tag:
 - markdown
 - components
 - extra
-category: blogs
+category: blog
 author: KarinChamberlain
 description: Markdown summary with different options
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
@@ -16,7 +16,7 @@ description: Markdown summary with different options
 
 ## Summary:
 
-Yous can pick as item to see how to apply in markdown.
+You can pick as item to see how to apply in markdown.
 
 #### Especial Elements
 - [Evidence](#evidence)
